@@ -1,0 +1,22 @@
+Hoje eu estou estudando:
+
+variáveis
+tipos de dados
+operadores lógicos
+condições
+Arrays
+loping while
+
+
+
+como rodar os códigos em typescript?
+
+forma mais simplificada: 
+
+download
+
+ npm install -g ts-node-dev
+
+ sempre que alterar o código ou quiser rodar o código tem que rodar esse comando no cmd: 
+
+ ts-node-dev --respawn aula01.ts
