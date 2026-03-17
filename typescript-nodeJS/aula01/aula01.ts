@@ -42,3 +42,18 @@ operadores lógicos:
 
 
 */
+
+// Arrays em typescript:
+
+let frutas: string[] = ["maçã","uva","melancia"]
+
+// como adicionar novos valores as arrays:
+
+// frutas.push("banana") // adiciona um novo valor no final da array
+// frutas.unshift("banana") // adiciona um novo valor no início da array    
+// frutas.splice(1,0,"banana") // adiciona um novo valor em uma posição específica da array (no caso, na posição 1)
+
+// como remover valores das arrays:
+// frutas.pop() // remove o último valor da array
+// frutas.shift() // remove o primeiro valor da array
+// frutas.splice(1,1) // remove um valor em uma posição específica da array (no caso, na posição 1)
