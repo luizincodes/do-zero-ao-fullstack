@@ -20,3 +20,26 @@ download
  sempre que alterar o código ou quiser rodar o código tem que rodar esse comando no cmd: 
 
  ts-node-dev --respawn aula01.ts
+
+
+
+let: usamos o let quando vamos alterar o valor da variável ao longo do código
+const: usamos o const quando NÃO vamos alterar o valor da variável ao longo do código.
+
+ao tentar-mos alterar o valor da variável const, certamente retornará um erro.
+
+Operadores de comparação em typescript:
+
+== : comparação de valor
+=== : comparação de valor e tipo
+!= :  diferença de
+> : maior que
+< : menor que
+>= : maior ou igual a
+<= : menor ou igual a
+
+operadores lógicos:
+
+&& : operador lógico AND (E)
+|| : operador lógico OR (OU)
+! : operador lógico NOT (NÃO)
